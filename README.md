@@ -1,2 +1,2 @@
-# 10-11-2022-TIL
+# TIL
 Today I learned 
